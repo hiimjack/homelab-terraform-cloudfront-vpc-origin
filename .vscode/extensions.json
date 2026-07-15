@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "aaron-bond.better-comments",
+    "github.vscode-github-actions",
+    "hashicorp.terraform",
+    "esbenp.prettier-vscode"
+  ]
+}
